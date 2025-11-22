@@ -10,13 +10,15 @@ body {
 
 h1, h2, h3 {
 
-    color: wheat;
+    
+
+    color: bisque;
 
 }
 
 nav a {
 
-    color: wheat;
+    color: beige;
 
     text-decoration: none;
 
@@ -26,12 +28,12 @@ nav a {
 
 div {
 
-    background: white;
+    background: beige;
 
     padding: 10px;
 
     margin-bottom: 10px;
-    
+
     border-radius: 5px;
 
 }
